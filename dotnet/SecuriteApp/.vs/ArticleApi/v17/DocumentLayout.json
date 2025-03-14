@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|c:\\users\\administrateur\\desktop\\dev\\tp-securite-app\\dotnet\\securiteapp\\articleapi\\repositories\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|solutionrelative:articleapi\\repositories\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|c:\\users\\administrateur\\desktop\\dev\\tp-securite-app\\dotnet\\securiteapp\\articleapi\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|solutionrelative:articleapi\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|c:\\users\\administrateur\\desktop\\dev\\tp-securite-app\\dotnet\\securiteapp\\articleapi\\data\\articledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|solutionrelative:articleapi\\data\\articledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|c:\\users\\administrateur\\desktop\\dev\\tp-securite-app\\dotnet\\securiteapp\\articleapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5579FB30-118C-4395-A3E7-069867ACD47C}|ArticleApi\\ArticleApi.csproj|solutionrelative:articleapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Data\\ArticleDbContext.cs",
+              "RelativeDocumentMoniker": "ArticleApi\\Data\\ArticleDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Data\\ArticleDbContext.cs",
+              "RelativeToolTip": "ArticleApi\\Data\\ArticleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:47:11.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Repositories\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "ArticleApi\\Repositories\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Repositories\\IArticleRepository.cs",
+              "RelativeToolTip": "ArticleApi\\Repositories\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:45:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "ArticleApi\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "ArticleApi\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:45:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "ArticleApi\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\tp-securite-app\\dotnet\\SecuriteApp\\ArticleApi\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "ArticleApi\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:40:14.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
